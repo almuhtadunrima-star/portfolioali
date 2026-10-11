@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>https://studiomirage.io</loc>
+      <priority>1.0</priority>
+    </url>
+
+    
+      <url>
+        <loc>https://studiomirage.io/legal-notice</loc>
+        <lastmod>2026-09-21</lastmod>
+        <priority>0.8</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/about-us</loc>
+        <lastmod>2026-09-21</lastmod>
+        <priority>0.8</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works</loc>
+        <lastmod>2026-04-03</lastmod>
+        <priority>0.8</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/ubisoft</loc>
+        <lastmod>2026-09-16</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/difc</loc>
+        <lastmod>2026-09-15</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/unpresidential</loc>
+        <lastmod>2026-09-15</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/biotherm</loc>
+        <lastmod>2026-09-15</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/caisse-des-depots</loc>
+        <lastmod>2026-09-22</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/renault-trucks</loc>
+        <lastmod>2026-09-15</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/jinns</loc>
+        <lastmod>2026-09-15</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/margiela</loc>
+        <lastmod>2026-09-21</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/omnicell-explorer</loc>
+        <lastmod>2026-09-15</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/sopra-banking</loc>
+        <lastmod>2026-09-21</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/metaverse</loc>
+        <lastmod>2026-09-15</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
+        <loc>https://studiomirage.io/works/tasmim</loc>
+        <lastmod>2026-09-15</lastmod>
+        <priority>0.7</priority>
+      </url>
+    
+  </urlset>

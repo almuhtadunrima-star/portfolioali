@@ -1,0 +1,21 @@
+{
+  "name": "studiomirage-clone",
+  "version": "1.0.0",
+  "description": "Studio Mirage (studiomirage.io) High-Fidelity 3D Web Experience Clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "studiomirage",
+    "threejs",
+    "sveltekit",
+    "webgl",
+    "3d",
+    "portfolio"
+  ],
+  "author": "",
+  "license": "ISC"
+}
