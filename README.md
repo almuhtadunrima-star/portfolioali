@@ -12,7 +12,7 @@ Website ini menggunakan server Node.js ringan (tanpa dependensi eksternal / zero
 Buka terminal / PowerShell di folder ini (`studiomirage`), lalu jalankan:
 
 ```bash
-node server.js
+node local-server.js
 ```
 atau menggunakan npm:
 ```bash

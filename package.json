@@ -2,11 +2,11 @@
   "name": "studiomirage-clone",
   "version": "1.0.0",
   "description": "Studio Mirage (studiomirage.io) High-Fidelity 3D Web Experience Clone",
-  "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "serve": "node server.js",
-    "dev": "node server.js"
+    "start": "node local-server.js",
+    "serve": "node local-server.js",
+    "dev": "node local-server.js",
+    "build": "echo 'Static build ready'"
   },
   "keywords": [
     "studiomirage",
